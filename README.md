@@ -1,1 +1,51 @@
-index.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>website</title>
+</head>
+<body>
+    <h1>selamat datang di website siddiq</h1>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>halama web berwarna</title>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-red, initial-scale=1.0">
+    <title><h1>website</h1>
+</head>
+<body>
+selamat datang di website siddiq (percobaan pembuatan website)
+</body>
+<h1>ini saya baru berkembang mencoba membuat website</h1>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-reed, initial-scale=1.0">
+    <title>website</title>
+</head>
+<body>
+    selamat membaca 
+</body>
+<h1>saya akan menjelaskan tentang asal-usul komputer</h1>
+</html><h1>asal-usul komputer melibatkan serangkaian perkembangan panjang dan kompleks,yang melibatkan banyak tokoh dan inovasi.berikut adalah ringkasan sejarah</h1>
+<html>awal mula: ala penghitung mekanis
+    -abad ke-17:
+    .blaise pascal,seorang matematikawan prancis,menciptakan pascaline,mesin penghitung mekanis pertama.
+    .grottfriend wilhem,mengembangkan seteppd recorner
+    mesin yang dapat melakukan perkalian dan pembagian.
+    abad <ke-19>.cherles babage,seorang matematikawan inggris,merancang analytical engine,mesin komputasi mekanis serbaguna, desainnya mengandung konsep-konsep dasar komputer moderen.
+        -perkembagan kompter elektronik
+        -abad ke-20
+        .alat turin,seorang matematikawan inggris,mengembangkan konsep mesin turing, model komputasi teoretis yag menjadi dasar bagi komputer moderen.
+        .konrad,seorang insinnyur jerman,menciptakan z3,komputer digital elektronik pertama yang berfungsi penuh.
+
+    </ke-19>
+</html> selamat datang di website saya selamat menyaksian website ini
